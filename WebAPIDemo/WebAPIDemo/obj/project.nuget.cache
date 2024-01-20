@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wIbq5ivc3jr6U9kUj3LNp0a+fxJMp8GlBw2FLWtDNXsJvLaHfI+WNK+T1/IxxY590Rcwr22nAhO4zu6LZ12Hlw==",
+  "success": true,
+  "projectFilePath": "D:\\MORATUWA CAMPUS\\Academic\\Year 02\\2nd Year Software Development Group\\Codings\\Backend\\Web_App_Test\\ASP_Test2_App\\WebAPIDemo\\WebAPIDemo\\WebAPIDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Haritha Randunu\\.nuget\\packages\\documentformat.openxml\\3.0.1\\documentformat.openxml.3.0.1.nupkg.sha512",
+    "C:\\Users\\Haritha Randunu\\.nuget\\packages\\documentformat.openxml.framework\\3.0.1\\documentformat.openxml.framework.3.0.1.nupkg.sha512",
+    "C:\\Users\\Haritha Randunu\\.nuget\\packages\\system.io.packaging\\8.0.0\\system.io.packaging.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
